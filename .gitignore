@@ -1,0 +1,10 @@
+# Temporary files
+*.tmp
+*.log
+
+# Build artifacts
+build/
+dist/
+
+# Dependencies
+node_modules/

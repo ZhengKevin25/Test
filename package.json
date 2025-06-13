@@ -1,0 +1,16 @@
+{
+  "name": "test-repository",
+  "version": "1.0.0",
+  "description": "A simple test repository demonstrating basic functionality",
+  "main": "example.txt",
+  "scripts": {
+    "test": "echo \"No tests specified\" && exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ZhengKevin25/Test.git"
+  },
+  "keywords": ["test", "example", "demo"],
+  "author": "ZhengKevin25",
+  "license": "MIT"
+}
